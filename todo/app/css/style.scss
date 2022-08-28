@@ -1,0 +1,29 @@
+@import "bootstrap/bootstrap.scss";
+
+body {
+	background-color: #eff6ff;
+}
+
+.login-form {
+	width: 300px;
+}
+
+#add-form, #edit-form {
+	background-color: rgba(210, 210, 210, 0.5);
+	z-index: 10;
+}
+
+.display-none {
+	display: none;
+}
+#add-cancel, #edit-cancel {
+	cursor: pointer;
+}
+
+.todo {
+	cursor: pointer;
+}
+
+.memo {
+	max-height: 100px;
+}
