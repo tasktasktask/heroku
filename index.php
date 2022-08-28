@@ -33,16 +33,16 @@
 	</header>
 	<main>
 		<div class="m-5 bg-danger">
-			<a href="<?php echo './home/poll/'; ?>" class="text-body">Poll Site</a>
+			<a href="<?php echo './home/poll/'; ?>" class="text-body" target="_blank">Poll Site</a>
 		</div>
 		<div class="m-5 bg-primary">
-			<a href="<?php echo './home/quiz/html'; ?>" class="text-body">Quiz Site</a>
+			<a href="<?php echo './home/quiz/html'; ?>" class="text-body" target="_blank">Quiz Site</a>
 		</div>
 		<div class="m-5 bg-success">
-			<a href="<?php echo './home/todo'; ?>" class="text-body">Todo Site</a>
+			<a href="<?php echo './home/todo'; ?>" class="text-body" target="_blank">Todo Site</a>
 		</div>
 		<div class="m-5 bg-warning">
-			<a href="<?php echo './home/db'; ?>" class="text-body">Db Site</a>
+			<a href="<?php echo './home/db'; ?>" class="text-body" target="_blank">Db Site</a>
 		</div>
 	</main>
 	<footer>
